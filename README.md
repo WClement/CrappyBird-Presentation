@@ -1,4 +1,5 @@
-CrappyBird
+CrappyBird - Edited by William Clement
+Created by Varun Pant
 ==========
 
 Clone of Flappy Bird game in JavaScript and Canvas 2D
